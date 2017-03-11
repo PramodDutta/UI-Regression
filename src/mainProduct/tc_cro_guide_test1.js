@@ -25,7 +25,6 @@ casper.test.begin('Taking screenshots for the different devices', function ( tes
     console.log('In Casper Test');
 
     // First Link Verify
-    //http://test.vwo.com/guides/complete-guide-to-conversion-rate-optimization/
     console.log('-----'+path+'/node_modules/phantomcss');
     phantomcss.init({
 
